@@ -2,7 +2,7 @@ Installing Lethal Company Mods in 10 steps.
 
 ## Step: 1 
 
-Download the Repo ( Greeen Code Button > Download Zip )
+Download the Repo ( Green Code Button > Download Zip )
 
 ## Step: 2
 
